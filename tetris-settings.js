@@ -6,7 +6,7 @@ var screenSetting = {
   column: 70,
   row: 25,
   fontFamily: 'Nanum Gothic Coding',
-  fontSource: 'https://fonts.googleapis.com/earlyaccess/nanumgothiccoding.css',
+  fontSource: 'https://fonts.googleapis.com/css?family=Nanum+Gothic+Coding',
 };
 
 var charGroups = {
