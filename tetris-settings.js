@@ -6,11 +6,11 @@ var screenSetting = {
   column: 70,
   row: 25,
   fontFamily: 'Nanum Gothic Coding',
-  fontSource: 'https://fonts.googleapis.com/css?family=Nanum+Gothic+Coding',
+  fontSource: 'https://cdn.jsdelivr.net/font-nanum/1.0/nanumgothiccoding/nanumgothiccoding.css',
 };
 
 var charGroups = {
-  fullwidth: {// ■□★☆△▷▽◁...
+  fullwidth: {// ■□★☆△▷▽◁┍┑┕┙│━┏┓┗┛━┃...
     chars: '\u2500-\u2BFF\u2022\u2008',
     isFullwidth: true,
     sizeAdj: 1.2,
